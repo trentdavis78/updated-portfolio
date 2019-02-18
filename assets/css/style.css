@@ -1,0 +1,60 @@
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  .brand-logo img {
+    position:relative; 
+    top:10px; 
+    left:20px;
+  }
+
+  .header-text {
+  font-size: 1.5rem;
+  color: #63707e;
+  padding-top: .5rem;
+  padding-bottom: .75rem;
+  line-height: 1.1;
+}
+.portfolio-cta {
+    margin-top: 3rem;
+}
+.social-icons  {
+    margin-right: .5rem;
+    opacity: .85;
+}
+.contact-details {
+    line-height: 1.5;
+}
+.contact-details i {
+    padding-right: .25rem;
+}
+.show-hide {
+    cursor: pointer;  
+    padding-left: .5rem;
+}
+.show-hide:hover {
+    text-decoration: underline;
+}
+#phoneNumber {
+    display: inline-block;
+    min-width: 100px;
+}
+#emailAddress {
+    display: inline-block;
+    min-width: 170px;
+}
+#emailAddress a {
+    color: #fff;
+}
+@media only screen and (max-width: 600px) {
+    .brand-logo img {
+        position:relative; 
+        top:6px; 
+    }
+  }
