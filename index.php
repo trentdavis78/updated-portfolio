@@ -1,10 +1,6 @@
 
         <?php require 'assets/includes/header.php'; ?>
-        <div class="container">
-            <h1 class="header-text center-align">
-                Full Stack Web Designer & Developer
-            </h1>
-            <div class="divider"></div>
+<div class="container">            
             <div class="row">
                 <div class="col l6 xl6 hide-on-med-and-down">
                     <img src="assets/images/image-1999636.png" alt="" class="responsive-img">

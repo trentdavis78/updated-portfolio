@@ -29,7 +29,7 @@
         <nav>
             <div class="nav-wrapper teal darken-3">
                 <div class="container">
-                    <a href="#!" class="brand-logo">
+                    <a href="index.php" class="brand-logo">
                         <img src="assets/images/logo.svg" class="responsive-img">
                         <small
                             style="position:relative;left:13px;font-family: 'Permanent Marker', cursive;">Web.dev</small></a>
@@ -53,6 +53,12 @@
                     </ul>
                 </div>
             </div>
-        </nav>
-    </header>    
+        </nav>   
+    <div class="container">
+        <h1 class="header-text center-align">
+            Full Stack Web Designer & Developer
+        </h1>
+    </div>
+    <div class="container divider"></div>
+    </header>   
     <main>
