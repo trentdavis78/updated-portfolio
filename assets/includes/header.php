@@ -36,20 +36,20 @@
                     <a href="#" data-activates="mobile-demo" class="button-collapse"><i
                             class="material-icons">menu</i></a>
                     <ul class="right hide-on-med-and-down">
-                        <li class="active"><a href="#!">Home</a></li>
-                        <li><a href="#!">Portfolio</a></li>
-                        <li><a href="#!">About</a></li>
-                        <li><a href="#!">Services</a></li>
-                        <li><a href="#!">Resources</a></li>
-                        <li><a href="#!">Contact</a></li>
+                        <li class="nav-item"><a href="index.php">Home</a></li>
+                        <li class="nav-item"><a href="portfolio.php">Portfolio</a></li>
+                        <li class="nav-item"><a href="about.php">About</a></li>
+                        <li class="nav-item"><a href="services.php">Services</a></li>
+                        <li class="nav-item"><a href="resources.php">Resources</a></li>
+                        <li class="nav-item"><a href="contact.php">Contact</a></li>
                     </ul>
                     <ul class="side-nav" id="mobile-demo">
-                        <li><a href="#!">Home</a></li>
-                        <li><a href="#!">Portfolio</a></li>
-                        <li><a href="#!">About</a></li>
-                        <li><a href="#!">Services</a></li>
-                        <li><a href="#!">Resources</a></li>
-                        <li><a href="#!">Contact</a></li>
+                        <li class="nav-item active"><a href="index.php">Home</a></li>
+                        <li class="nav-item"><a href="portfolio.php">Portfolio</a></li>
+                        <li class="nav-item"><a href="about.php">About</a></li>
+                        <li class="nav-item"><a href="services.php">Services</a></li>
+                        <li class="nav-item"><a href="resources.php">Resources</a></li>
+                        <li class="nav-item"><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>
