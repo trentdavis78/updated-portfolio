@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col s12 m12 lg6 xl6">
             <div class="portfolio-panel">
-                <h2>{ FRONT-END }</h2>
+                <h2 class="grey-text text-darken-2">{ FRONT-END }</h2>
                 <div class="card">
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Technology List<i
@@ -53,20 +53,20 @@
         </div>
         <div class="col s12 m12 lg6 xl6">
                 <div class="portfolio-panel">
-                    <h2>< BACK-END ></h2>
+                    <h2 class="grey-text text-darken-2">< BACK-END ></h2>
                     <div class="card">
                         <div class="card-content">
                             <span class="card-title activator grey-text text-darken-4">Technology List<i
                                     class="material-icons right">more_vert</i></span>
                             <div class="tech-wrapper">
-                                <div class="btn grey lighten-1 btn-tech black-text waves-effect disabled">
-                                <i class="devicon-nodejs-plain small left white-text"></i>NODEJS
+                                <div class="btn grey lighten-1 btn-tech black-text waves-effect">
+                                <img class="left" src="assets/images/firebase.svg" style="width:20px; margin-right:15px; position:relative; top: 8px">firebase                                
                                 </div>
                                 <div class="btn grey lighten-1 btn-tech black-text waves-effect disabled">
-                                <i class="devicon-mongodb-plain colored small left"></i>MongoDB
+                                <i class="devicon-nodejs-plain small left white-text"></i>NODEJS                               
                                 </div>
                                 <div class="btn grey lighten-1 btn-tech black-text waves-effect disabled">
-                                <i class="devicon-mysql-plain colored small left"></i>MySQL
+                                <i class="devicon-mongodb-plain colored small left"></i>MongoDB                               
                                 </div>
                             </div>
                             <div class="tech-wrapper">
@@ -74,7 +74,7 @@
                                 <i class="devicon-php-plain colored small left"></i>PHP
                                 </div>
                                 <div class="btn grey lighten-1 btn-tech black-text waves-effect disabled">
-                                <i class="devicon-python-plain colored small left"></i>Python
+                                <i class="devicon-mysql-plain colored small left"></i>MySQL                               
                                 </div>
                                 <div class="btn grey lighten-1 btn-tech black-text waves-effect disabled">
                                 <i class="devicon-ruby-plain colored small left"></i>Ruby
@@ -88,7 +88,7 @@
                                 <i class="devicon-webpack-plain colored small left"></i>webpack
                                 </div>
                                 <div class="btn grey lighten-1 btn-tech black-text waves-effect disabled">
-                                <i class="devicon-laravel-plain colored small left"></i>laravel
+                                <i class="devicon-python-plain colored small left"></i>Python
                                 </div>
                             </div>
     
