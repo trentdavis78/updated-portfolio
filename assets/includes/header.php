@@ -19,7 +19,7 @@
     <link rel="stylesheet"
         href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
     <link href="https://fonts.googleapis.com/css?family=Permanent+Marker|Varela+Round|Bevan" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css?v=1" />
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css?v=<?php echo(rand()); ?>" />
 
 </head>
 

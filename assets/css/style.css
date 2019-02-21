@@ -108,6 +108,15 @@
 .card-reveal-text {
     margin-top: 2rem;
 }
+.project-title {
+    background: -moz-linear-gradient(left, rgba(0,0,0,1) 50%, rgba(82,82,82,1) 66%, rgba(199,199,199,0) 89%, rgba(255,255,255,0) 100%);
+    background: -webkit-linear-gradient(left, rgba(0,0,0,1) 50%,rgba(82,82,82,1) 66%,rgba(199,199,199,0) 89%,rgba(255,255,255,0) 100%);
+    background: linear-gradient(to right, rgba(0,0,0,1) 50%,rgba(82,82,82,1) 66%,rgba(199,199,199,0) 89%,rgba(255,255,255,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00ffffff',GradientType=1 );
+    width: 100%;
+    padding: 1rem !important;
+    
+}
 .come-in {
     transform: translateY(150px);
     animation: come-in 0.8s ease forwards;

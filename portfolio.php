@@ -106,8 +106,8 @@
             <div class="col s12 m12 lg4 xl4 s4">
                 <div class="card">
                     <div class="card-image">
-                        <img src="http://materializecss.com/images/sample-1.jpg" alt="image">
-                        <span class="card-title">Title</span>
+                        <img src="assets/images/this.jpg" alt="image">
+                        <span class="card-title project-title">$(this)</span>
                     </div>
                     <div class="card-content">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus nisi libero officia dolor rem,
@@ -129,8 +129,8 @@
             <div class="col s12 m12 lg4 xl4 s4">
                 <div class="card">
                     <div class="card-image">
-                        <img src="http://materializecss.com/images/sample-1.jpg" alt="image">
-                        <span class="card-title">Title</span>
+                        <img src="assets/images/tactapp.jpg" alt="image">
+                        <span class="card-title project-title">TACT App</span>
                     </div>
                     <div class="card-content">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus nisi libero officia dolor rem,
@@ -152,8 +152,8 @@
             <div class="col s12 m12 lg4 xl4">
                     <div class="card">
                         <div class="card-image">
-                            <img src="http://materializecss.com/images/sample-1.jpg" alt="image">
-                            <span class="card-title">Title</span>
+                            <img src="assets/images/triviagame.jpg" alt="image">
+                            <span class="card-title project-title">IQ Trivia</span>
                         </div>
                         <div class="card-content">
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus nisi libero officia dolor rem,
@@ -179,8 +179,8 @@
             <div class="col s12 m12 lg4 xl4 s4 module">
                 <div class="card">
                     <div class="card-image">
-                        <img src="http://materializecss.com/images/sample-1.jpg" alt="image">
-                        <span class="card-title">Title</span>
+                            <img src="assets/images/netgifs.jpg" alt="image">
+                            <span class="card-title project-title">Netgifs</span>
                     </div>
                     <div class="card-content">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus nisi libero officia dolor rem,
@@ -202,8 +202,8 @@
             <div class="col s12 m12 lg4 xl4 s4 module">
                 <div class="card">
                     <div class="card-image">
-                        <img src="http://materializecss.com/images/sample-1.jpg" alt="image">
-                        <span class="card-title">Title</span>
+                        <img src="assets/images/crystalscollector.jpg" alt="image">
+                        <span class="card-title project-title">Crystal Collector</span>
                     </div>
                     <div class="card-content">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus nisi libero officia dolor rem,
@@ -225,8 +225,8 @@
             <div class="col s12 m12 lg4 xl4 module">
                     <div class="card">
                         <div class="card-image">
-                            <img src="http://materializecss.com/images/sample-1.jpg" alt="image">
-                            <span class="card-title">Title</span>
+                            <img src="assets/images/wordguess.jpg" alt="image">
+                            <span class="card-title project-title">Word Guess</span>
                         </div>
                         <div class="card-content">
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus nisi libero officia dolor rem,
