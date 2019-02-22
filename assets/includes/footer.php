@@ -16,7 +16,7 @@
                     </div>
                 </div>
                 <div class="col l4 offset-l2 s12">
-                    <h5 class="white-text"><i class="fab fa-github"> Github</i></h5>
+                    <h5 class="white-text"><a class="white-text" href="https://github.com/trentdavis78" target="_blank"><i class="fab fa-github"> Github</i></a></h5>
                     <ul>
                         <li>
                             <a class="grey-text text-lighten-3" target="_blank"
@@ -30,12 +30,12 @@
         <div class="footer-copyright">
             <div class="container">
                 © 2019 Copyright
-                <a class="grey-text text-lighten-4 right social-icons" href="#!"><i
-                        class="fab fa-twitter-square fa-lg"></i></a>
-                <a class="grey-text text-lighten-4 right social-icons" href="#!"><i
-                        class="fab fa-linkedin fa-lg"></i></a>
-                <a class="grey-text text-lighten-4 right social-icons" href="#!"><i
+                <a class="grey-text text-lighten-4 right social-icons" href="https://twitter.com/TrentDavis78" target="_blank"><i
+                        class="fab fa-twitter-square fa-lg"></i></a>                
+                <a class="grey-text text-lighten-4 right social-icons" href="https://www.facebook.com/trent.a.davisII" target="_blank"><i
                         class="fab fa-facebook-square fa-lg"></i></a>
+                <a class="grey-text text-lighten-4 right social-icons" href="https://www.linkedin.com/in/trentdavis78/" target="_blank"><i
+                class="fab fa-linkedin fa-lg"></i></a>
             </div>
         </div>
     </footer>

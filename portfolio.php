@@ -7,7 +7,7 @@
                     < FRONT-END>
                 </h2>
                 <div class="card">
-                    <div class="card-content">
+                    <div class="card-content tech-content">
                         <span class="card-title activator grey-text text-darken-4">Technology List<i
                                 class="material-icons right">more_vert</i></span>
                         <div class="tech-wrapper">
@@ -58,7 +58,7 @@
             <div class="portfolio-panel">
                 <h2 class="grey-text text-darken-2">{ BACK-END }</h2>
                 <div class="card">
-                    <div class="card-content">
+                    <div class="card-content tech-content">
                         <span class="card-title activator grey-text text-darken-4">Technology List<i
                                 class="material-icons right">more_vert</i></span>
                         <div class="tech-wrapper">
@@ -109,12 +109,12 @@
     <!--./row -->
     <div class="row">
         <div class="col s12 m12 lg4 xl4 s4">
-            <div class="card">
+            <div class="card portfolio-card">
                 <div class="card-image">
                     <img src="assets/images/this.jpg" alt="image">
                     <span class="card-title project-title">$(this)</span>
                 </div>
-                <div class="card-content">
+                <div class="card-content tech-content">
                     <!-- <p class="project-desc truncate">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus nisi
                         libero officia dolor rem,
                         eos
@@ -129,11 +129,11 @@
                     <i class="devicon-php-plain colored small"></i>
                     <!-- <img src="assets/images/firebase.svg" style="vertical-align:bottom"> -->
                 </div>
-                <div class="card-action">
-                <a href="https://github.com/trentdavis78/updated-portfolio" target="_blank" class="btn black waves-effect waves-light left">
+                <div class="card-action teal darken-3">
+                <a href="https://github.com/trentdavis78/updated-portfolio" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-                    <div class="btn teal darken-3 right waves-effect waves-light">
+                    <div class="btn teal darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
                     </div>
                     <div class="clearfix"></div>
@@ -141,12 +141,12 @@
             </div>
         </div>
         <div class="col s12 m12 lg4 xl4 s4">
-            <div class="card">
+            <div class="card portfolio-card">
                 <div class="card-image">
                     <img src="assets/images/tactapp.jpg" alt="image">
                     <span class="card-title project-title">TACT App</span>
                 </div>
-                <div class="card-content">
+                <div class="card-content tech-content">
                     <small class="featured-tech">Featured Technologies</small>
                     <i class="devicon-html5-plain colored small"></i>
                     <i class="devicon-css3-plain colored small"></i>
@@ -155,11 +155,11 @@
                     <i class="devicon-bootstrap-plain colored small"></i>
                     <img src="assets/images/firebase.svg" style="vertical-align:bottom">
                 </div>
-                <div class="card-action">
-                <a href="https://github.com/trentdavis78/project-1" target="_blank" class="btn black waves-effect waves-light left">
+                <div class="card-action teal darken-3">
+                <a href="https://github.com/trentdavis78/project-1" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-<a href="https://trentdavis78.github.io/project-1/" target="_blank" class="btn teal darken-3 right waves-effect waves-light">
+<a href="https://trentdavis78.github.io/project-1/" target="_blank" class="btn teal darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
 </a>
                     <div class="clearfix"></div>
@@ -167,12 +167,12 @@
             </div>
         </div>
         <div class="col s12 m12 lg4 xl4">
-            <div class="card">
+            <div class="card portfolio-card">
                 <div class="card-image">
                     <img src="assets/images/triviagame.jpg" alt="image">
                     <span class="card-title project-title">IQ Trivia</span>
                 </div>
-                <div class="card-content">
+                <div class="card-content tech-content">
                     <small class="featured-tech">Featured Technologies</small>
                     <i class="devicon-html5-plain colored small"></i>
                     <i class="devicon-css3-plain colored small"></i>
@@ -181,11 +181,11 @@
                     <i class="devicon-bootstrap-plain colored small"></i>
                     <img src="assets/images/firebase.svg" style="vertical-align:bottom">
                 </div>
-                <div class="card-action">
-                    <a href="https://github.com/trentdavis78/TriviaGame" target="_blank" class="btn black waves-effect waves-light left">
+                <div class="card-action teal darken-3">
+                    <a href="https://github.com/trentdavis78/TriviaGame" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-                    <a href="https://trentdavis78.github.io/TriviaGame/" target="_blank" class="btn teal darken-3 right waves-effect waves-light">
+                    <a href="https://trentdavis78.github.io/TriviaGame/" target="_blank" class="btn teal darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
 </a>
                     <div class="clearfix"></div>
@@ -197,12 +197,12 @@
     </div>
     <div class="row">
         <div class="col s12 m12 lg4 xl4 s4 module">
-            <div class="card">
+            <div class="card portfolio-card">
                 <div class="card-image">
                     <img src="assets/images/netgifs.jpg" alt="image">
                     <span class="card-title project-title">Netgifs</span>
                 </div>
-                <div class="card-content">
+                <div class="card-content tech-content">
                     <small class="featured-tech">Featured Technologies</small>
                     <i class="devicon-html5-plain colored small"></i>
                     <i class="devicon-css3-plain colored small"></i>
@@ -210,11 +210,11 @@
                     <i class="devicon-jquery-plain colored small"></i>
                     <i class="devicon-bootstrap-plain colored small"></i>
                 </div>
-                <div class="card-action">
-                <a href="https://github.com/trentdavis78/netgifs" target="_blank" class="btn black waves-effect waves-light left">
+                <div class="card-action teal darken-3">
+                <a href="https://github.com/trentdavis78/netgifs" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-                    <a href="https://trentdavis78.github.io/netgifs" target="_blank" class="btn teal darken-3 right waves-effect waves-light">
+                    <a href="https://trentdavis78.github.io/netgifs" target="_blank" class="btn teal darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
 </a>
                     <div class="clearfix"></div>
@@ -222,23 +222,23 @@
             </div>
         </div>
         <div class="col s12 m12 lg4 xl4 s4 module">
-            <div class="card">
+            <div class="card portfolio-card">
                 <div class="card-image">
                     <img src="assets/images/crystalscollector.jpg" alt="image">
                     <span class="card-title project-title">Crystal Collector</span>
                 </div>
-                <div class="card-content">
+                <div class="card-content tech-content">
                     <small class="featured-tech">Featured Technologies</small>
                     <i class="devicon-html5-plain colored small"></i>
                     <i class="devicon-css3-plain colored small"></i>
                     <i class="devicon-jquery-plain colored small"></i>
                     <i class="devicon-bootstrap-plain colored small"></i>
                 </div>
-                <div class="card-action">
-                <a href="https://github.com/trentdavis78/unit-4-game" target="_blank" class="btn black waves-effect waves-light left">
+                <div class="card-action teal darken-3">
+                <a href="https://github.com/trentdavis78/unit-4-game" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-                    <a href="https://trentdavis78.github.io/unit-4-game" target="_blank" class="btn teal darken-3 right waves-effect waves-light">
+                    <a href="https://trentdavis78.github.io/unit-4-game" target="_blank" class="btn teal darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
 </a>
                     <div class="clearfix"></div>
@@ -246,23 +246,23 @@
             </div>
         </div>
         <div class="col s12 m12 lg4 xl4 module">
-            <div class="card">
+            <div class="card portfolio-card">
                 <div class="card-image">
                     <img src="assets/images/wordguess.jpg" alt="image">
                     <span class="card-title project-title">Word Guess</span>
                 </div>
-                <div class="card-content">
+                <div class="card-content tech-content">
                     <small class="featured-tech">Featured Technologies</small>
                     <i class="devicon-html5-plain colored small"></i>
                     <i class="devicon-css3-plain colored small"></i>
                     <i class="devicon-javascript-plain colored small"></i>
                     <i class="devicon-bootstrap-plain colored small"></i>
                 </div>
-                <div class="card-action">
-                <a href="https://github.com/trentdavis78/word-guess-game" target="_blank" class="btn black waves-effect waves-light left">
+                <div class="card-action teal darken-3">
+                <a href="https://github.com/trentdavis78/word-guess-game" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-<a href="https://trentdavis78.github.io/word-guess-game" target="_blank"  class="btn teal darken-3 right waves-effect waves-light">
+<a href="https://trentdavis78.github.io/word-guess-game" target="_blank"  class="btn teal darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
 </a>
                     <div class="clearfix"></div>

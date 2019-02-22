@@ -157,6 +157,13 @@ main {
 .project-desc {
     padding-bottom: .75rem;
 }
+.card-content.tech-content {
+    background: url(../images/stripes-light.png);
+    background-repeat: repeat;
+}
+.card.portfolio-card {
+    border: 1px solid #e5e5e5;
+}
 .featured-tech {
     display: block;
     margin: .5rem 0;
