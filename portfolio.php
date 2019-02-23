@@ -130,10 +130,10 @@
                     <!-- <img src="assets/images/firebase.svg" style="vertical-align:bottom"> -->
                 </div>
                 <div class="card-action teal darken-3">
-                <a href="https://github.com/trentdavis78/updated-portfolio" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
+                <a href="https://github.com/trentdavis78/updated-portfolio" target="_blank" class="btn-flat grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-                    <div class="btn teal darken-2 right waves-effect waves-light">
+                    <div class="btn-flat teal white-text darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
                     </div>
                     <div class="clearfix"></div>
@@ -156,10 +156,10 @@
                     <img src="assets/images/firebase.svg" style="vertical-align:bottom">
                 </div>
                 <div class="card-action teal darken-3">
-                <a href="https://github.com/trentdavis78/project-1" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
+                <a href="https://github.com/trentdavis78/project-1" target="_blank" class="btn-flat grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-<a href="https://trentdavis78.github.io/project-1/" target="_blank" class="btn teal darken-2 right waves-effect waves-light">
+<a href="https://trentdavis78.github.io/project-1/" target="_blank" class="btn-flat teal white-text darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
 </a>
                     <div class="clearfix"></div>
@@ -182,18 +182,16 @@
                     <img src="assets/images/firebase.svg" style="vertical-align:bottom">
                 </div>
                 <div class="card-action teal darken-3">
-                    <a href="https://github.com/trentdavis78/TriviaGame" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
+                    <a href="https://github.com/trentdavis78/TriviaGame" target="_blank" class="btn-flat grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-                    <a href="https://trentdavis78.github.io/TriviaGame/" target="_blank" class="btn teal darken-2 right waves-effect waves-light">
+                    <a href="https://trentdavis78.github.io/TriviaGame/" target="_blank" class="btn-flat teal white-text darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
 </a>
                     <div class="clearfix"></div>
                 </div>
             </div>
         </div>
-
-
     </div>
     <div class="row">
         <div class="col s12 m12 lg4 xl4 s4 module">
@@ -211,10 +209,10 @@
                     <i class="devicon-bootstrap-plain colored small"></i>
                 </div>
                 <div class="card-action teal darken-3">
-                <a href="https://github.com/trentdavis78/netgifs" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
+                <a href="https://github.com/trentdavis78/netgifs" target="_blank" class="btn-flat grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-                    <a href="https://trentdavis78.github.io/netgifs" target="_blank" class="btn teal darken-2 right waves-effect waves-light">
+                    <a href="https://trentdavis78.github.io/netgifs" target="_blank" class="btn-flat teal white-text darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
 </a>
                     <div class="clearfix"></div>
@@ -235,10 +233,10 @@
                     <i class="devicon-bootstrap-plain colored small"></i>
                 </div>
                 <div class="card-action teal darken-3">
-                <a href="https://github.com/trentdavis78/unit-4-game" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
+                <a href="https://github.com/trentdavis78/unit-4-game" target="_blank" class="btn-flat grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-                    <a href="https://trentdavis78.github.io/unit-4-game" target="_blank" class="btn teal darken-2 right waves-effect waves-light">
+                    <a href="https://trentdavis78.github.io/unit-4-game" target="_blank" class="btn-flat teal white-text darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
 </a>
                     <div class="clearfix"></div>
@@ -259,10 +257,10 @@
                     <i class="devicon-bootstrap-plain colored small"></i>
                 </div>
                 <div class="card-action teal darken-3">
-                <a href="https://github.com/trentdavis78/word-guess-game" target="_blank" class="btn grey lighten-2 black-text waves-effect waves-light left">
+                <a href="https://github.com/trentdavis78/word-guess-game" target="_blank" class="btn-flat grey lighten-2 black-text waves-effect waves-light left">
                         <i class="fab fa-github-alt"> <span class="fa-text">Github</span></i>
 </a>
-<a href="https://trentdavis78.github.io/word-guess-game" target="_blank"  class="btn teal darken-2 right waves-effect waves-light">
+<a href="https://trentdavis78.github.io/word-guess-game" target="_blank"  class="btn-flat teal white-text darken-2 right waves-effect waves-light">
                         <i class="material-icons right m0">play_arrow</i>
 </a>
                     <div class="clearfix"></div>

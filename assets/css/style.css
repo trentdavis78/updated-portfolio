@@ -162,13 +162,22 @@ main {
     background-repeat: repeat;
 }
 .card.portfolio-card {
-    border: 1px solid #e5e5e5;
+    border: 5px solid #00695C;
+}
+.card .card-action:last-child {
+    border-radius: 0;
+}
+
+.card-image img {
+    border-radius: 0 !important;
 }
 .featured-tech {
     display: block;
     margin: .5rem 0;
 }
-
+.btn-flat {
+    padding: 0 1rem;
+}
 .fa-text {
     font-family: sans-serif;
     text-transform: initial;
