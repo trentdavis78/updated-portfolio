@@ -3,10 +3,10 @@
 <div class="container">            
             <div class="row">
                 <div class="col l6 xl6 hide-on-med-and-down">
-                    <img src="assets/images/image-1999636.png" alt="" class="responsive-img">
+                    <img src="assets/images/image-1999636.webp" alt="" class="responsive-img">
                 </div>
                 <div class="col l6 xl6 hide-on-large-only">
-                    <img src="assets/images/laptop.png" alt="" class="responsive-img">
+                    <img src="assets/images/laptop.webp" alt="" class="responsive-img">
                 </div>
                 <div class="col s12 l6 xl6">
                     <div class="card-panel grey portfolio-cta">
