@@ -63,4 +63,19 @@
           $("#emailToggle").text("Show");
         }
     });
+    $(function(){
+     
+      var current = document.location.pathname;
+      current = current.toString();
+      current = current.replace("/updated-portfolio/", "");
+      console.log(current)
+      $('.nav-item a').each(function(){
+          var $this = $(this);          
+          if($this.attr('href').indexOf(current) !== -1){
+            $this.parent().addClass('active');
+        } 
+      })
+  })
+  
   });
+ 

@@ -2,12 +2,24 @@
   body {
     display: flex;
     min-height: 100vh;
-    flex-direction: column;
+    flex-direction: column; 
   }
+i.left {
+    margin-right: 10px;
+}
+i.right {
+    margin-left: 5px;
+}
 
-  main {
+.m0 {
+    margin: 0 !important;
+}
+.p0 {
+    padding: 0 !important;
+}
+main {
     flex: 1 0 auto;
-  }
+}
   .btn {
       padding: 0 1rem;
   }
@@ -26,6 +38,9 @@
 }
 .portfolio-cta {
     margin-top: 3rem;
+}
+.portfolio-cta h5.white-text {
+    margin-bottom: 3rem;
 }
 .social-icons  {
     margin-right: .5rem;
@@ -81,6 +96,92 @@
 }
 .card-content p {
     line-height: 1.5;
+}
+.portfolio-panel {
+    background: #e4e4e4;
+    padding: 2rem;
+    margin-top: 1rem;
+    
+}
+.portfolio-panel h2 {
+    font-family: 'Bevan', cursive;
+    text-align: center;
+    margin-bottom: 2.424rem;
+}
+.tech-wrapper {
+    padding-top: 1rem;
+}
+.btn-tech {
+    padding: 0 .7rem;    
+}
+.btn-tech.disabled i {
+    opacity: .5;
+}
+
+.card-reveal-text {
+    margin-top: 2rem;
+}
+.project-title {
+    background: -moz-linear-gradient(left, rgba(0,0,0,1) 50%, rgba(82,82,82,1) 66%, rgba(199,199,199,0) 89%, rgba(255,255,255,0) 100%);
+    background: -webkit-linear-gradient(left, rgba(0,0,0,1) 50%,rgba(82,82,82,1) 66%,rgba(199,199,199,0) 89%,rgba(255,255,255,0) 100%);
+    background: linear-gradient(to right, rgba(0,0,0,1) 50%,rgba(82,82,82,1) 66%,rgba(199,199,199,0) 89%,rgba(255,255,255,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00ffffff',GradientType=1 );
+    width: 100%;
+    padding: 1rem !important;    
+}
+.card-action i {
+    margin-right: 3px;
+}
+.come-in {
+    transform: translateY(150px);
+    animation: come-in 0.8s ease forwards;
+  }
+  
+  .come-in:nth-child(odd) {
+    animation-duration: 0.6s;
+  }
+  .come-in:last-child {
+    animation-duration: 1.2s;
+  }
+  
+  .already-visible {
+    transform: translateY(0);
+    animation: none;
+  }
+  
+  @keyframes come-in {
+    to {
+      transform: translateY(0);
+    }
+  }
+.project-desc {
+    padding-bottom: .75rem;
+}
+.card-content.tech-content {
+    background: url(../images/stripes-light.png);
+    background-repeat: repeat;
+}
+.card.portfolio-card {
+    border: 5px solid #00695C;
+}
+.card .card-action:last-child {
+    border-radius: 0;
+}
+
+.card-image img {
+    border-radius: 0 !important;
+}
+.featured-tech {
+    display: block;
+    margin: .5rem 0;
+}
+.btn-flat {
+    padding: 0 1rem;
+}
+.fa-text {
+    font-family: sans-serif;
+    text-transform: initial;
+    font-weight: 400 !important;
 }
 @media only screen and (max-width: 600px) {
     .brand-logo img {
