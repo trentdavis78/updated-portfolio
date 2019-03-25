@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <meta charset="utf-8" />
@@ -18,7 +18,7 @@
     <!-- DEVICON and GOOGLE FONTS -->
     <link rel="stylesheet"
         href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Permanent+Marker|Varela+Round|Bevan" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Permanent+Marker%7CVarela+Round%7CBevan" rel="stylesheet">
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css?v=<?php echo(rand()); ?>" />
 
 </head>
@@ -30,7 +30,7 @@
             <div class="nav-wrapper teal darken-3">
                 <div class="container">
                     <a href="index.php" class="brand-logo">
-                        <img src="assets/images/logo.svg" class="responsive-img">
+                        <img src="assets/images/logo.svg" class="responsive-img" alt="TDWeb.dev Logo">
                         <small
                             style="position:relative;left:13px;font-family: 'Permanent Marker', cursive;">Web.dev</small></a>
                     <a href="#" data-activates="mobile-demo" class="button-collapse"><i
